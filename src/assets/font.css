@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Viga&display=swap');
+
+@font-face {
+    font-family: 'SF Mono Regular';
+    src: url(./fonts/SFMono-Regular.otf);
+}
+
+@font-face {
+    font-family: 'SF Mono Bold';
+    src: url(./fonts/SFMono-Bold.otf);
+}
+
+@font-face {
+    font-family: 'SF Mono Heavy';
+    src: url(./fonts/SFMono-Heavy.otf);
+}
+
+@font-face {
+    font-family: 'SF Mono Medium';
+    src: url(./fonts/SFMono-Medium.otf);
+}
+
+@font-face {
+    font-family: 'SF Mono Semibold';
+    src: url(./fonts/SFMono-Semibold.otf);
+}

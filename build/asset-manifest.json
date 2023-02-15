@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96d47d55.css",
+    "main.js": "/static/js/main.766a7d92.js",
+    "static/js/787.a139cc77.chunk.js": "/static/js/787.a139cc77.chunk.js",
+    "static/media/TuringTrustPicture.png": "/static/media/TuringTrustPicture.d5d4576b8edd9078f2ab.png",
+    "static/media/dyepicture.png": "/static/media/dyepicture.f5853f6eadd285c7c337.png",
+    "static/media/Resume.svg": "/static/media/Resume.f76385193e4c6bc2bee450a1f1021731.svg",
+    "static/media/designing.jpeg": "/static/media/designing.a8b6f91c5839a2e8f1c2.jpeg",
+    "static/media/SFMono-Medium.otf": "/static/media/SFMono-Medium.00a97c563c44904eda7f.otf",
+    "static/media/SFMono-Regular.otf": "/static/media/SFMono-Regular.1d07f933cdf138950a80.otf",
+    "static/media/SFMono-Semibold.otf": "/static/media/SFMono-Semibold.4a8d0f958fb4a343b5a2.otf",
+    "static/media/SFMono-Bold.otf": "/static/media/SFMono-Bold.a1024558b75beb78b624.otf",
+    "static/media/SFMono-Heavy.otf": "/static/media/SFMono-Heavy.e166d99a7068dfcba469.otf",
+    "static/media/TuringTrustApp.png": "/static/media/TuringTrustApp.4b369993df503ee14fbf.png",
+    "static/media/music.jpeg": "/static/media/music.079398062e60bb429cad.jpeg",
+    "static/media/programming.jpg": "/static/media/programming.999de3ff0d6cadde6e86.jpg",
+    "static/media/building.jpeg": "/static/media/building.f2ef6df39bb529d1116f.jpeg",
+    "static/media/Modio.png": "/static/media/Modio.b2d2b95bfd31b98ec997.png",
+    "static/media/TossTime.png": "/static/media/TossTime.2e034724768f275c65a9.png",
+    "static/media/portrait.svg": "/static/media/portrait.c2645f9c9e79265cbec1833db26c10cf.svg",
+    "static/media/graphic.svg": "/static/media/graphic.f6ae946ee5e2168a21121f2bedbb12ce.svg",
+    "static/media/backdrop.svg": "/static/media/backdrop.8118f05bade167a4a2606a605eb003b1.svg",
+    "static/media/logo.svg": "/static/media/logo.5417c3abd729089c1f2c0af2d479b402.svg",
+    "index.html": "/index.html",
+    "static/media/waves.svg": "/static/media/waves.7528cf666f14269315c649dbee99d2a8.svg",
+    "main.96d47d55.css.map": "/static/css/main.96d47d55.css.map",
+    "main.766a7d92.js.map": "/static/js/main.766a7d92.js.map",
+    "787.a139cc77.chunk.js.map": "/static/js/787.a139cc77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96d47d55.css",
+    "static/js/main.766a7d92.js"
+  ]
+}
