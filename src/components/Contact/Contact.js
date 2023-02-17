@@ -3,6 +3,8 @@ import emailjs from '@emailjs/browser';
 import {BsCheckLg, BsLinkedin} from 'react-icons/bs';
 import {BiLinkExternal} from 'react-icons/bi';
 import {ReactComponent as Waves} from '../../assets/waves.svg';
+import santacruz from '../../assets/santacruz.jpeg';
+import linkedinportrait from '../../assets/linkedinportrait.jpeg';
 
 function Contact() {
     const form = useRef();
@@ -42,8 +44,8 @@ function Contact() {
                 </form>
                 <div className='w-1/2 p-5'>
                     <div className='bg-green-900 rounded-xl w-full h-full overflow-hidden drop-shadow relative'>
-                        <img className='h-1/2 aspect-square absolute rounded-full translate-x-1/4 translate-y-1/4 border-green-900 border-8' src='https://media.licdn.com/dms/image/D5635AQGSHq4Iv7yxng/profile-framedphoto-shrink_400_400/0/1673393525026?e=1676412000&v=beta&t=G8F4NaNwIo0fZD5BE57PO2x6lf0ygSqpb4EkFsC3VhU'/>
-                        <img className='h-1/2 w-full object-cover' src='https://media.licdn.com/dms/image/C5616AQHTaJGrCbk1GA/profile-displaybackgroundimage-shrink_350_1400/0/1663682809209?e=1681344000&v=beta&t=RzcAwV0vr4buIXpYNjFy1snBFI1o6afYf5xCsbKrM08'/>
+                        <img className='h-1/2 aspect-square absolute rounded-full translate-x-1/4 translate-y-1/4 border-green-900 border-8' src={linkedinportrait}/>
+                        <img className='h-1/2 w-full object-cover' src={santacruz}/>
                         <div className='text-green-100 flex flex-row items-center content-between gap-4 h-1/2 p-10 text-4xl'>
                             <BsLinkedin className='flex-none'/> 
                             <div className='flex-none'>

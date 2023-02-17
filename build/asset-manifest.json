@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.96d47d55.css",
-    "main.js": "/static/js/main.766a7d92.js",
+    "main.js": "/static/js/main.7715ad2a.js",
     "static/js/787.a139cc77.chunk.js": "/static/js/787.a139cc77.chunk.js",
     "static/media/TuringTrustPicture.png": "/static/media/TuringTrustPicture.d5d4576b8edd9078f2ab.png",
     "static/media/dyepicture.png": "/static/media/dyepicture.f5853f6eadd285c7c337.png",
@@ -13,9 +13,11 @@
     "static/media/SFMono-Bold.otf": "/static/media/SFMono-Bold.a1024558b75beb78b624.otf",
     "static/media/SFMono-Heavy.otf": "/static/media/SFMono-Heavy.e166d99a7068dfcba469.otf",
     "static/media/TuringTrustApp.png": "/static/media/TuringTrustApp.4b369993df503ee14fbf.png",
+    "static/media/santacruz.jpeg": "/static/media/santacruz.b55b00c9b4fcf6cc49bd.jpeg",
     "static/media/music.jpeg": "/static/media/music.079398062e60bb429cad.jpeg",
     "static/media/programming.jpg": "/static/media/programming.999de3ff0d6cadde6e86.jpg",
     "static/media/building.jpeg": "/static/media/building.f2ef6df39bb529d1116f.jpeg",
+    "static/media/linkedinportrait.jpeg": "/static/media/linkedinportrait.3d8c67e0c1b61762ba35.jpeg",
     "static/media/Modio.png": "/static/media/Modio.b2d2b95bfd31b98ec997.png",
     "static/media/TossTime.png": "/static/media/TossTime.2e034724768f275c65a9.png",
     "static/media/portrait.svg": "/static/media/portrait.c2645f9c9e79265cbec1833db26c10cf.svg",
@@ -25,11 +27,11 @@
     "index.html": "/index.html",
     "static/media/waves.svg": "/static/media/waves.7528cf666f14269315c649dbee99d2a8.svg",
     "main.96d47d55.css.map": "/static/css/main.96d47d55.css.map",
-    "main.766a7d92.js.map": "/static/js/main.766a7d92.js.map",
+    "main.7715ad2a.js.map": "/static/js/main.7715ad2a.js.map",
     "787.a139cc77.chunk.js.map": "/static/js/787.a139cc77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96d47d55.css",
-    "static/js/main.766a7d92.js"
+    "static/js/main.7715ad2a.js"
   ]
 }
