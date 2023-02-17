@@ -24,13 +24,12 @@ function Contact() {
       };
     
     return (
-        <div className='w-screen h-screen pt-14 text-green-900'>
-            <Waves className='absolute bottom-0 w-screen'/>
+        <div className='w-screen h-screen pt-14 text-green-900 flex flex-col'>
             <div className='text-5xl pl-8 pt-8' style={{fontFamily: 'Bungee'}}>
                 Contact Me
             </div>
             <div className='flex flex-row p-5' style={{fontFamily: 'SF Mono Bold'}}>
-                <form ref={form} onSubmit={sendEmail} className='flex flex-col w-1/2 p-5'>
+                <form ref={form} onSubmit={sendEmail} className='flex flex-col w-1/2 p-5 relative z-50'>
                     <label style={{fontSize: 30}}>Name</label>
                     <input placeholder='Name' type="name" name="from_name" style={{outline: 'none'}} className='rounded-lg p-2 bg-green-50 border-green-600 border-4 transition-all ease-in-out focus:border-l-8 mb-2'/>
                     <label style={{fontSize: 30}}>Email</label>
@@ -65,6 +64,9 @@ function Contact() {
                         </div>
                     </div>
                 </div>
+            </div>
+            <div className='flex-auto overflow-hidden'>
+                <Waves className='w-screen bg-cover'/>
             </div>
         </div>
     );
